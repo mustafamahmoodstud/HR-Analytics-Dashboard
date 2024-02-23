@@ -1,5 +1,9 @@
 # HR-Analytics-Dashboard
 
+Dasboard:
+
+<img width="847" alt="image" src="https://github.com/mustafamahmoodstud/HR-Analytics-Dashboard/assets/102355670/8f75d81d-8956-4155-84d7-c31de6f57de6">
+
 Problem statement
 
 AtliQ Hardware, with multiple branches across India, provides computer hardware and peripheral manufacturers to its clients. The HR department of a company is facing challenges in monitoring employee attendance and identifying patterns of absenteeism. They need to have a comprehensive view of the attendance records of all employees, including the number of leaves taken and reasons for absence.
